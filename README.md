@@ -1,3 +1,3 @@
 # HSM_dlmu_code
-classification-person
-转载请注明出处，不能用于商业用途
+大连海事大学2022机器学习代码 未经允许禁止转载
+
